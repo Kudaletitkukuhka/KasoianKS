@@ -1,0 +1,15 @@
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\bin\Debug\net6.0\Final Assignment.exe
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\bin\Debug\net6.0\Final Assignment.deps.json
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\bin\Debug\net6.0\Final Assignment.runtimeconfig.json
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\bin\Debug\net6.0\Final Assignment.dll
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\bin\Debug\net6.0\Final Assignment.pdb
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\Final Assignment.csproj.AssemblyReference.cache
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\Final Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\Final Assignment.AssemblyInfoInputs.cache
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\Final Assignment.AssemblyInfo.cs
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\Final Assignment.csproj.CoreCompileInputs.cache
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\Final Assignment.dll
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\refint\Final Assignment.dll
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\Final Assignment.pdb
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\Final Assignment.genruntimeconfig.cache
+C:\файлы\Учеба\GB\KasoianKS\Final Assignment\obj\Debug\net6.0\ref\Final Assignment.dll
